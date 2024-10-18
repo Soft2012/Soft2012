@@ -8,7 +8,7 @@
 </div>
 
 ---
-- 👋 Hi, I’m Full Stack Engineer.
+- 👋 Hi, I’m a Sennior Full Stack Engineer.
 - 👀 I’m interested in Web Design and Developing.
 - 🌱 I’m currently learning Blockchain.
 
