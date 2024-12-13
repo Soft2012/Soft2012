@@ -8,8 +8,8 @@
 </div>
 
 ---
-- 👋 Hi, I’m a Senior Full Stack Engineer.
-- 👀 I’m interested in Web Design and Developing.
+- 👋 Hi, I’m a Senior Full Stack Engineer based on AI.
+- 👀 I’m interested in Web Design and Developing with LLM.
 - 🌱 I’m currently learning Blockchain.
 
 ---
@@ -27,6 +27,10 @@
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+      <br>LLM (AI)
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
